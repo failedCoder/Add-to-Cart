@@ -11,6 +11,7 @@
   <li>Dynamic display of add to cart/remove from cart buttons depending on whether the item is in the cart,and user authorization</li>
   <li>Functioning search bar</li>
   <li>6 item pagination</li>
+  <li>Not responsive</li>
   
 </ul>
 
